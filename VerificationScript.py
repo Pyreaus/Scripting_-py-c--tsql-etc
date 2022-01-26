@@ -1,6 +1,6 @@
 #NOTE: this program is the sole property of Bristows LLP
 import numpy as np;import os;import openpyxl;import pandas as pds;import string;
-xlsx_location = [r'C:\Users\NRhima\Desktop\Attendance data documents\Bookin Attendance Calculator(Ver.1).xlsx',r'C:\Users\NRhima\Desktop\Attendance data documents\Bookin Attendance Calculator(Ver.2).xlsx'] #replace with local path
+xlsx_location = [r'C:\Users\NRhima\Desktop\  *** .xlsx']  #[*** = path of file(s)]
 values=[];merge=pds.DataFrame()
 
 def main(file):
