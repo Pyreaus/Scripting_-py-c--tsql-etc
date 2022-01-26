@@ -1,4 +1,4 @@
-#NOTE: this program is the sole property of Bristows LLP
+#NOTE: this program was developed for internal use
 import numpy as np;import os;import openpyxl;import pandas as pds;import string;
 xlsx_location = [r'C:\Users\NRhima\Desktop\  *** .xlsx']  #[*** = path of file(s)]
 values=[];merge=pds.DataFrame()
