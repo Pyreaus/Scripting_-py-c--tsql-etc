@@ -6,7 +6,7 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 -- =============================================
--- Author:		Noel A. Rhima /p2
+-- Author:		Noel A. Rhima /p1
 -- Create date: 2021-18
 -- =============================================
 ALTER PROCEDURE [dbo].[sp_DepAttendance] 
