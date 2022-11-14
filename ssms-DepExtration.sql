@@ -44,3 +44,5 @@ BEGIN
 	LEFT JOIN [PEOPLEFINDER_2].[dbo].[Departments] [P]
 	    ON [B].[DepartmentID] = [P].[ID]
 END
+
+-- TODO:  append more queries 
